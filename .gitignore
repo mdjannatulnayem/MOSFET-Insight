@@ -1,3 +1,10 @@
+# Ignore dataset folder
+/dataset/
+
+# Ignore blob folder
+/blob/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
